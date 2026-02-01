@@ -6,7 +6,7 @@ public class RotatedBS_SortedArray {
         int target = 0;
 
         int ans = search(arr, target);
-        System.out.println("Target found at index: " + ans);
+        System.out.println("Targeted index: " + ans);
     }
     public static int search(int[] nums, int target) {
         int pivot = findPivot(nums);
