@@ -7,6 +7,7 @@ import java.util.Map;
 public class DecreaseOrderFrequency {
     public static void main(String[] args) {
         int[] arr={4,1,2,3,1,2,5,2};
+
         System.out.println(Arrays.toString(decOrder(arr)));
     }
     public static Integer[] decOrder(int[] arr){
