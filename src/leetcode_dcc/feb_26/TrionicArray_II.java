@@ -1,4 +1,4 @@
-package leetcode_dcc;
+package leetcode_dcc.feb_26;
 /*
 3640. Trionic Array II (Hard)
 

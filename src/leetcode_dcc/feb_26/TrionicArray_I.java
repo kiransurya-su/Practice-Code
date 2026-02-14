@@ -1,4 +1,4 @@
-package leetcode_dcc;
+package leetcode_dcc.feb_26;
 /*
 3637. Trionic Array I
 You are given an integer array nums of length n.
