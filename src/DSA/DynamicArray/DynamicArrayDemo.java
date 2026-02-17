@@ -82,11 +82,9 @@ class DynamicArray<T> implements Iterable<T>{ // Variables -> Methods
     public Iterator<T> iterator(){
         return new Iterator<T>(){
             int index=0;
-
             public boolean hasNext() {
-                return index < size;
+                return index<size;
             }
-
             public T next() {
                 if(!hasNext())
                     throw new NoSuchElementException();
