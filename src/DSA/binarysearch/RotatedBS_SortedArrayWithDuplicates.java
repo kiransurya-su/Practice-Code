@@ -1,4 +1,4 @@
-package dsa.binarysearch;
+package DSA.binarysearch;
 
 public class RotatedBS_SortedArrayWithDuplicates {
 

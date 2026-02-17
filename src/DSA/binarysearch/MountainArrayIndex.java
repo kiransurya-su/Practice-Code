@@ -1,4 +1,4 @@
-package dsa.binarysearch;
+package DSA.binarysearch;
 //https://leetcode.com/problems/peak-index-in-a-mountain-array/
 public class MountainArrayIndex {
     public static void main(String[] args) {

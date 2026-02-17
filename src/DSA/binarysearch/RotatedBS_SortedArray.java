@@ -1,4 +1,4 @@
-package dsa.binarysearch;
+package DSA.binarysearch;
 
 public class RotatedBS_SortedArray {
     public static void main(String[] args) {

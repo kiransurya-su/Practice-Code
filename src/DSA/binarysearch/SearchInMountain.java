@@ -1,4 +1,4 @@
-package dsa.binarysearch;
+package DSA.binarysearch;
 // https://leetcode.com/problems/find-in-mountain-array/description/
 public class SearchInMountain {
     public static void main(String[] args) {

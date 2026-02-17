@@ -1,4 +1,4 @@
-package dsa.binarysearch;
+package DSA.binarysearch;
 
 public class InfiniteArrayPosition {
     public static void main(String[] args) {

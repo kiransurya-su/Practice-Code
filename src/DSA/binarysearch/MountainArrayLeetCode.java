@@ -1,4 +1,4 @@
-package dsa.binarysearch;
+package DSA.binarysearch;
 
 // Step 1: MountainArray Interface (LeetCode style)
 interface MountainArray {

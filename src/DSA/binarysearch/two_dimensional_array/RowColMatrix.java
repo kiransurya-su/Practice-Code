@@ -1,4 +1,4 @@
-package dsa.binarysearch.two_dimensional_array;
+package DSA.binarysearch.two_dimensional_array;
 
 import java.util.Arrays;
 

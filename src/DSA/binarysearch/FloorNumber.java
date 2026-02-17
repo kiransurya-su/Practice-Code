@@ -1,4 +1,4 @@
-package dsa.binarysearch;
+package DSA.binarysearch;
 
 public class FloorNumber {
     public static void main(String[] args) {
