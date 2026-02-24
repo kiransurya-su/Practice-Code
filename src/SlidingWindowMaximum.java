@@ -7,6 +7,7 @@ public class SlidingWindowMaximum {
        int k = 3;
        System.out.println(maxSlidingWindow(arr,k));
     }
+
     public static List<Integer> maxSlidingWindow(int[] arr, int k) {
         List<Integer> li = new ArrayList<>();
         Deque<Integer> dq = new LinkedList<>();
