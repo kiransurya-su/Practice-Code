@@ -25,6 +25,7 @@ Example 2:
 Input: arr = [1024,512,256,128,64,32,16,8,4,2,1]
 Output: [1,2,4,8,16,32,64,128,256,512,1024]
 Explantion: All integers have 1 bit in the binary representation, you should just sort them in ascending order.
+Streak->202
 * */
 public class SortIntegersbyTheNumberofOneBits {
     static class CustomComparator implements Comparator<Integer> {
