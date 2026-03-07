@@ -16,7 +16,6 @@ Input: s = "111000"
 Output: 2
 Explanation: Use the first operation two times to make s = "100011".
 Then, use the second operation on the third and sixth elements to make s = "101010".
-
 Streak->212
 * */
 
