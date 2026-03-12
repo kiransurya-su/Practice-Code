@@ -14,6 +14,7 @@ public class MinimumChangesToMakeAlternatingBinaryString {
         String s = "10";
         System.out.println(minOperations(s));
     }
+
     public static int minOperations(String s) {
         int st0=0;
         for(int i=0;i<s.length();i++){
