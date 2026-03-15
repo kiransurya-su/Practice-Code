@@ -12,7 +12,8 @@ Given two integers n and k, consider a list of all happy strings of length n sor
 
 Return the kth string of this list or return an empty string if there are less than k happy strings of length n.
 
-Streak->221
+
+Streak->220
 
 * */
 public class Thek_thLexicographicalStringofAllHappyStringsofLength_n {
