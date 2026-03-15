@@ -16,6 +16,7 @@ int getIndex(idx) Gets the current value at index idx (0-indexed) of the sequenc
 
 Streak->221
 
+
  */
 class Fancy {
 
