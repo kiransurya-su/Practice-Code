@@ -8,7 +8,7 @@ The following proccess happens k times:
 Even-indexed rows (0, 2, 4, ...) are cyclically shifted to the left.
 Odd-indexed rows (1, 3, 5, ...) are cyclically shifted to the right.
 Return true if the final modified matrix after k steps is identical to the original matrix, and false otherwise.
-Streak->232
+Streak->233
 * */
 public class MatrixSimilarityAfterCyclicShifts {
     public static void main(String[] args) {
