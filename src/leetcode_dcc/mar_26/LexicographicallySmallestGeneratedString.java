@@ -26,7 +26,8 @@ Streak->237
 import java.util.Arrays;
 public class LexicographicallySmallestGeneratedString {
     public static void main(String[] args) {
-
+        String str1 = "TFTF", str2 = "ab";
+        System.out.println(generateString(str1,str2));
     }
     public static String generateString(String str1, String str2) {
         int n = str1.length();
