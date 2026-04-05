@@ -16,6 +16,8 @@ Output: "cipher"
 
 Streak->241
 
+
+
 * */
 public class DecodeTheSlantedCiphertext {
     public static void main(String[] args) {
