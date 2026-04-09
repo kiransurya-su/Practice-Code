@@ -36,7 +36,7 @@ robot.step(4);  // Moving the next step North would be out of bounds, so it turn
                 // Then, it moves four steps West to (1, 2), and faces West.
 robot.getPos(); // return [1, 2]
 robot.getDir(); // return "West"
-
+Streak->244
 * */
 class WalkingRobotSimulation_II {
 
